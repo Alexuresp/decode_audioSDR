@@ -1,0 +1,16 @@
+# Секрети
+.env
+
+# Тимчасові аудіо-артефакти
+*.wav
+temp_audio_for_groq.wav
+temp_SSB_audio.wav
+
+# Архіви
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
